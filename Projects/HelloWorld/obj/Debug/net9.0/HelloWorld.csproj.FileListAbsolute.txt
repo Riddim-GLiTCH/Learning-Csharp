@@ -1,0 +1,15 @@
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.sourcelink.json
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Aurora\C# learning\Learning-Csharp\Projects\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll
